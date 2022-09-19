@@ -1,5 +1,5 @@
 # Basic config, that must be set correctly
-baseurl: /markdownslides
+baseurl: /slides
 githuburl: https://github.com/a-nau/markdownslides/
 
 # Further config
